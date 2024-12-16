@@ -8,7 +8,7 @@
 
 **Description**
 
-* Desired permissions:
+Desired permissions:  
 * Check items in and out
 * View limited patron information (ie. user group and expiration date); cannot view patron address, phone number, and contact info
 * Be able to send an email from FOLIO to the patron, and the email is logged on that patron’s record.  Students cannot delete the record of that contact from out of FOLIO.  The email from FOLIO includes a note to reply to our circulation desk email, and the email that goes to the patron cc’s to that circulation desk email.
