@@ -9,7 +9,7 @@ Markdown file for each FOLIO permission set and test user in use at Georgia Sout
 All the viewer permissions for settings; not allowed to see patrons.  Intended to allow assigning this role to librarians in Georgia (GIL institutions), who are not GS employees, in order to have conversations about settings.
 
 **Permissions**  
-* Agreements: Search & view agreements  
+* Agreements: Search & view agreements
 * Agreements: Search & view e-resources  
 Agreements: Search & view platforms  
 Bulk edit: Can build query  
